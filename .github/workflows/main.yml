@@ -115,4 +115,4 @@ jobs:
         with:
           context: ./gateway/
           push: true
-          tags: gasuaska/taski_gateway:latest 
+          tags: gasuaska/taski_gateway:latest
