@@ -11,7 +11,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['127.0.0.1',
                  'localhost',
                  '84.201.176.175',
-                 'gasuaska-taski.zapto.org']
+                 'gasuaska-kittygram.zapto.org']
 
 
 # Application definition
